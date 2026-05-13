@@ -35,6 +35,11 @@ The dashboard helps businesses analyze:
 
 ---
 
+#final ouput checking
+Local URL: http://localhost:8501
+  Network URL: http://192.168.55.102:8501
+
+  
 # Project Structure
 
 ```text
@@ -44,3 +49,4 @@ SalesDashboard/
 ├── sales_data.csv
 ├── requirements.txt
 └── README.md
+
